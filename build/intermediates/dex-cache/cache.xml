@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/dialog/3.8.0/b7b36e298b2c35cffe782b8176318a6a9df258ae/dialog-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7b36e298b2c35cffe782b8176318a6a9df258ae">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/dialog-3.8.0_98275b5beedc3615683ccb09434ae0f401329287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74f7a42a7f3e7d8a7343725b7bb2edd753b307f5">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_668b3a613d5c1daa61394c84a29660db591e2cc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/personality-insights/3.8.0/1b49073b386795b082fd0c82d1f2f0c8564f16bd/personality-insights-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b49073b386795b082fd0c82d1f2f0c8564f16bd">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/personality-insights-3.8.0_689a57bdd292e7db85feef132992e88e9d6ba7d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/natural-language-classifier/3.8.0/70819912811f620c59429bc5e3cd5db326b1062d/natural-language-classifier-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70819912811f620c59429bc5e3cd5db326b1062d">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/natural-language-classifier-3.8.0_ab9e505016272bc2b550a6a1d24bee4648c6cf70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/visual-recognition/3.8.0/c0f8194f2b4db6df94535cd610e0990568b029b/visual-recognition-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c0f8194f2b4db6df94535cd610e0990568b029b">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/visual-recognition-3.8.0_21235c57bdde533d5b7efcfcb0699d357afcb222/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.7.0/22c61dda6d7e63a7325932c85b0a3412443b1f5a/okhttp-urlconnection-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c61dda6d7e63a7325932c85b0a3412443b1f5a">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.7.0_cc66ab0a4415e499d29f48f52155f83e4e715e20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/discovery/3.8.0/3bdfaf34059fc5a7113ff7953f28c538d963af7d/discovery-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bdfaf34059fc5a7113ff7953f28c538d963af7d">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/discovery-3.8.0_23d2b28ddddba41fa59e9ed1bc43ff03ff6453cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/speech-to-text/3.8.0/238d011defe9092ac8b699cd87ec126c74d2933b/speech-to-text-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="238d011defe9092ac8b699cd87ec126c74d2933b">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/speech-to-text-3.8.0_d119ebce539167f22f7d26387ef6dc1ff73d403c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/alchemy/3.8.0/853ade41c6751993cd7afc0d4a8887ce6fc5a387/alchemy-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="853ade41c6751993cd7afc0d4a8887ce6fc5a387">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/alchemy-3.8.0_d4a6e0e6c847ea67e3d968359b96b4441f7381ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/retrieve-and-rank/3.8.0/cbf8803911b23afda44b18465f321e42b1f53f67/retrieve-and-rank-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbf8803911b23afda44b18465f321e42b1f53f67">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrieve-and-rank-3.8.0_026566a16360ad99edeec10f4c3790edffd31902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.7.0/9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734/logging-interceptor-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ccaeec4a3f4fae5cde9a8b8f0743ad002ad5734">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.7.0_82992e81c005c264b84a2ca436dccfa0467c359c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/document-conversion/3.8.0/d6c2a4dcf80591f9a69a6d76c0559b77b4e76b8/document-conversion-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d6c2a4dcf80591f9a69a6d76c0559b77b4e76b8">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/document-conversion-3.8.0_45c5718a72e72b9a73607665945be21f1851ddc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_1eecd8def6749de0055c3460cf021ee8411d458e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.4_102d79beb186ea37d43d6ba1925554c138ffe926/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/core/3.8.0/93b8a390d018d74d1eb9014ba14dbdaee2a2b318/core-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b8a390d018d74d1eb9014ba14dbdaee2a2b318">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.8.0_0e52c004664953a78bcb63da9ddb63ee9edf1cf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.12.0/3742beff8024d0a0073d284b7c5e4cbf73d99b25/okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.12.0_84674a5d04e51cf0799f83ce2f89aca6de7ef97b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/conversation/3.8.0/ab7654aaf965f8b1ced921ac853b882b714521ea/conversation-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab7654aaf965f8b1ced921ac853b882b714521ea">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/conversation-3.8.0_66db6992a4e9e3bdf8d554e747ac85167be69fc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.7.0_2bc4b63a3d648917387e6e338da2696dec2fff4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/tradeoff-analytics/3.8.0/7ec51176e8fd718bd95c95f96d5d010d22f825aa/tradeoff-analytics-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ec51176e8fd718bd95c95f96d5d010d22f825aa">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/tradeoff-analytics-3.8.0_8be2942c0223cf249f9caf56c4e6f66467a30272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.bundles.repackaged/jersey-jsr166e/2.22.2/3ef9c67a5bea4d914a45bd54f3405fa29a368f7a/jersey-jsr166e-2.22.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/jersey-jsr166e-2.22.2_579e78e596df2930f2fb3364702f5abd14407789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dea1e7a9e63105c7172799f5806b7e41a8fecfcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/natural-language-understanding/3.8.0/cb41cba770da3d3661e9adbad2f8c6539bee55d8/natural-language-understanding-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb41cba770da3d3661e9adbad2f8c6539bee55d8">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/natural-language-understanding-3.8.0_a2834cb1a7ad9b738aacb7bfb88c33c540111bf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/language-translation/3.8.0/38c6964b1a09cdbb241babb4146975de94108c2a/language-translation-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38c6964b1a09cdbb241babb4146975de94108c2a">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/language-translation-3.8.0_92910d3610d1bcfdce562a1966f5f2607fd85865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/text-to-speech/3.8.0/2459852ad126bfe6943a61f6ef3e6f62958c2161/text-to-speech-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2459852ad126bfe6943a61f6ef3e6f62958c2161">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/text-to-speech-3.8.0_491d842848c5844b641c609eca02f151ecddecbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/language-translator/3.8.0/a961a6d7b9d42b4093a9a3fc34c542f747987de3/language-translator-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a961a6d7b9d42b4093a9a3fc34c542f747987de3">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/language-translator-3.8.0_f7024004b1a52e3e0bf718cda21bc3722878c300/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/tone-analyzer/3.8.0/85b1be4a6957e34153adc257e1e52d8cbc46add0/tone-analyzer-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85b1be4a6957e34153adc257e1e52d8cbc46add0">
+        <dex dex="/Users/akshayadinesh/AndroidStudioProjects/ToneAnalyzerExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/tone-analyzer-3.8.0_8c651455ec7aa2520775b52a36678e4e0d6b9556/classes.dex" />
+    </item>
+
+</items>
